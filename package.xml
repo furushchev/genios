@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package>
+  <name>genios</name>
+  <version>0.0.0</version>
+  <description>The genios package</description>
+  <maintainer email="furushchev@todo.todo">furushchev</maintainer>
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>genmsg</build_depend>
+  <export>
+    <message_generator>ios</message_generator>
+  </export>
+</package>
